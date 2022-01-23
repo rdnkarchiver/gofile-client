@@ -9,7 +9,7 @@ pip install --user gofile-client
 
 ## Usage
 ```python
-from gofile.client import Gofile
+from gofile import Gofile
 
 client = Gofile(token='<your-token>')
 
