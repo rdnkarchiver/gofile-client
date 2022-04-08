@@ -99,7 +99,7 @@ class Gofile:
         params = {
             "token": self.token,
             "contentId": content_id,
-            "websiteToken": "websiteToken",
+            "websiteToken": "12345",
         }
 
         if password:
